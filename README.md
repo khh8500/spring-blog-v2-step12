@@ -12,6 +12,13 @@
 - 환경변수 세팅 (RDS_HOST, RDS_USERNAME 등등)
 - Github Action 생성
 - Github Action 테스트 설정
+- CI 테스트 완료 (빌드)
+- deploy.zip 생성
+- 시크릿키 설정 (IAM 필요)
+- 엘라스틱빈스톡 생성
+- RDS 생성
+- 디비생성, 테이블생성
+- 보안그룹 연결
 
 
 ```sql
